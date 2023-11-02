@@ -88,19 +88,47 @@ the search term 'Replication crisis'.
 
 I state that the KB proposal has no effect on the most prevalent
 problems.
-A study on questionable research practices found that the
-most prevalent questionable research practices (QRPs) are listed
-below (from [Gopalakrishna et al., 2021], the percentage indicates the
+Here I show two studies, one about the prevalence of
+questionable research practices (QRPs) and one about
+threats to reproducible research.
+
+The first study is a study in which thousands of
+scientists anonymously filled in a survey
+regarding questionable research practices 
+they commit [Gopalakrishna et al., 2021].
+The most prevalent QRPs are listed
+below (the percentage indicates the
 percentage of scientists that did this QRP), 
 where only the last point is addressed by the KB proposal:
 
-1. 17.5%: No submission of a valid negative finding
-2. 17.0%: Not mentioning flaws in the study
-3. 15.0%: Too little supervision
-4. 14.7%: Too little attention to proper use of technology
-5. 14.5%: Too little documentation of the scientific process.
+%   | QRP                                                |Addressed by KB proposal
+----|----------------------------------------------------|------------------------
+17.5| No submission of a valid negative finding          |No
+17.0| Not mentioning flaws in the study                  |No
+15.0| Too little supervision                             |No
+14.7| Too little attention to proper use of technology   |No
+14.5| Too little documentation of the scientific process |Yes
 
+![](monafo_et_al_2021.png)
 
+> Threats to reproducible science, from [Munafò et al., 2017]
+
+The second study is a manifesto for reproducible science [Munafò et al., 2017],
+which aligns closely with the KB proposal, as both intend 
+to increase the reproducibility of science.
+
+Frequency                            |Threat to reproducible research|Addressed by KB proposal
+-------------------------------------|-------------------------------|------------------------
+~92%                                 | Publication bias              |No
+~70%                                 | Lack of data sharing          |Yes
+1 in 1000 papers                     | Lack of replication           |No
+~50-90%                              | HARKing                       |No
+~50% chance to detect medium effects | Low statistical power         |No
+~50-100%                             | P-value hacking               |No
+
+> Table from [Munafò et al., 2017]
+
+Another research 
 
 
 
@@ -118,7 +146,7 @@ where only the last point is addressed by the KB proposal:
  * [Baker, 2016] Baker, Monya. "1,500 scientists lift the lid on reproducibility." Nature News 533.7604 (2016): 452.
  * [Begley and Ellis, 2012] Begley, C. Glenn, and Lee M. Ellis. "Raise standards for preclinical cancer research." Nature 483.7391 (2012): 531-533.
  * [Gopalakrishna et al., 2021] Gopalakrishna, Gowri, et al. "Prevalence of questionable research practices, research misconduct and their potential explanatory factors: a survey among academic researchers in The Netherlands." (2021).
-
+ * [Munafò et al., 2017] Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature human behaviour 1.1 (2017): 1-9.
 
 
 [3] Ioannidis, John PA. "Why most published research findings are false." PLoS medicine 2.8 (2005): e124.
