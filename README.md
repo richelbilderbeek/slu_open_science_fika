@@ -109,26 +109,28 @@ where only the last point is addressed by the KB proposal:
 14.7| Too little attention to proper use of technology   |No
 14.5| Too little documentation of the scientific process |Yes
 
-![](monafo_et_al_2021.png)
+![](munafo_et_al_2021_adapted_correct.png)
 
-> Threats to reproducible science, from [Munafò et al., 2017]
+> Threats to reproducible science, adapted from [Munafò et al., 2017].
+> (note that there is an online version with different, incorrect values)
 
 The second study is a manifesto for reproducible science [Munafò et al., 2017],
 which aligns closely with the KB proposal, as both intend 
 to increase the reproducibility of science.
 
-Frequency                            |Threat to reproducible research|Addressed by KB proposal
--------------------------------------|-------------------------------|------------------------
-~92%                                 | Publication bias              |No
-~70%                                 | Lack of data sharing          |Yes
-1 in 1000 papers                     | Lack of replication           |No
-~50-90%                              | HARKing                       |No
-~50% chance to detect medium effects | Low statistical power         |No
-~50-100%                             | P-value hacking               |No
+Frequency                                                                    |Threat to reproducible research|Addressed by KB proposal
+-----------------------------------------------------------------------------|-------------------------------|------------------------
+70-92% [Fanelli, 2010]                                                       | Publication bias              |No
+~70% [Wicherts et al., 2006]                                                 | Lack of data sharing          |Yes
+~1% of papers [Makel et al., 2012]                                           | Lack of replication           |No
+~54% [John et al, 2012]                                                      | HARKing                       |No
+Median of 0.46 power for medium size effect [Sedlmeier and Gigerenzer, 1992] | Low statistical power         |No
+~60~70% [John et al, 2012]                                                   | P-value hacking               |No
 
-> Table from [Munafò et al., 2017]
+> Table from [Munafò et al., 2017], using its references. 
+> Note that these values can be for a single (e.g. [Makel et al., 2012]) 
+> or multiple (e.g. [Fanelli, 2010]) disciplines.
 
-Another research 
 
 
 
@@ -147,8 +149,8 @@ Another research
  * [Begley and Ellis, 2012] Begley, C. Glenn, and Lee M. Ellis. "Raise standards for preclinical cancer research." Nature 483.7391 (2012): 531-533.
  * [Gopalakrishna et al., 2021] Gopalakrishna, Gowri, et al. "Prevalence of questionable research practices, research misconduct and their potential explanatory factors: a survey among academic researchers in The Netherlands." (2021).
  * [Munafò et al., 2017] Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature human behaviour 1.1 (2017): 1-9.
-
-
-[3] Ioannidis, John PA. "Why most published research findings are false." PLoS medicine 2.8 (2005): e124.
-[4] Wicherts, Jelte M., et al. "Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking." Frontiers in psychology 7 (2016): 1832.
-[5] Simmons, Joseph P., Leif D. Nelson, and Uri Simonsohn. "False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant." Psychological science 22.11 (2011): 1359-1366.
+ * [Fanelli, 2010] Fanelli, Daniele. "“Positive” results increase down the hierarchy of the sciences." PloS one 5.4 (2010): e10068.
+ * [Wicherts et al., 2006] Wicherts, Jelte M., et al. "The poor availability of psychological research data for reanalysis." American psychologist 61.7 (2006): 726.
+ * [Makel et al., 2012] Makel, Matthew C., Jonathan A. Plucker, and Boyd Hegarty. "Replications in psychology research: How often do they really occur?." Perspectives on Psychological Science 7.6 (2012): 537-542., Matthew C., Jonathan A. Plucker, and Boyd Hegarty. "Replications in psychology research: How often do they really occur?." Perspectives on Psychological Science 7.6 (2012): 537-542.
+ * [John et al, 2012] John, Leslie K., George Loewenstein, and Drazen Prelec. "Measuring the prevalence of questionable research practices with incentives for truth telling." Psychological science 23.5 (2012): 524-532.
+ * [Sedlmeier and Gigerenzer, 1992] Sedlmeier, Peter, and Gerd Gigerenzer. "Do studies of statistical power have an effect on the power of studies?." (1992).
