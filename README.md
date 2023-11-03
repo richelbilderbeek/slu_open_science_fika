@@ -130,7 +130,7 @@ Frequency                                                                    |Th
 ~1% of papers [Makel et al., 2012]                                           | Lack of replication           |No
 ~54% [John et al, 2012]                                                      | HARKing                       |No
 Median of 0.46 power for medium size effect [Sedlmeier and Gigerenzer, 1992] | Low statistical power         |No
-~60~70% [John et al, 2012]                                                   | P-value hacking               |No
+~60-70% [John et al, 2012]                                                   | P-value hacking               |No
 
 > Table 2. Frequencies of threats to reproducible research, 
 > references from [Munafò et al., 2017]. 
@@ -209,7 +209,7 @@ Frequency                                                                    |Th
 ~1% of papers [Makel et al., 2012]                                           | Lack of replication           |No
 ~54% [John et al, 2012]                                                      | HARKing                       |Yes
 Median of 0.46 power for medium size effect [Sedlmeier and Gigerenzer, 1992] | Low statistical power         |Yes
-~60~70% [John et al, 2012]                                                   | P-value hacking               |Yes
+~60-70% [John et al, 2012]                                                   | P-value hacking               |Yes
 
 > Table S2. Frequencies of threats to reproducible research, 
 > references from [Munafò et al., 2017]. 
